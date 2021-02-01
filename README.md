@@ -1,7 +1,7 @@
 ## ML-Enhanced Risk Analysis Under multiple Uncertainty Sources
 
 <p align="center">
-  <img src="./Images/Highlight.PNG" width=300 />
+  <img src="./Images/Highlight.PNG" width=500 />
 </p>
 
 
@@ -41,7 +41,7 @@ Meanwhile, **active learning** strategy is adopted to accelerate model training.
 - For a risk analysis task of 523-dimensional nonlinear combustion instability prediction, our proposed strategy delivered a 15-fold increase in computational efficiency.
 
 <p align="center">
-  <img src="./Images/Results.PNG" width=300 />
+  <img src="./Images/Results.PNG" width=500 />
 </p>
 
 ### 5. Folder structure
