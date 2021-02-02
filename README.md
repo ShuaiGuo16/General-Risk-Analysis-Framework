@@ -12,7 +12,7 @@
 - We built Gaussian Process models to surrogate the expensive-to-simulate component and designed an iterative loop to couple the GP models with the other component simulations.
 - Our strategy led to 20/15 times accelerations in computational efficiency for linear/nonlinear instability risk calculations.
 
-This work was firstly presented in [38th International Symposium on Combustion](http://www.combustionsymposia.org/2021/home), and was later published in the journal:
+This work was initially presented in [38th International Symposium on Combustion](http://www.combustionsymposia.org/2021/home), and was later published in the journal:
 
 Guo S., Silva C. F., Polifke W., [A Gaussian-process-based framework for high-dimensional uncertainty quantifcation analysis in thermoacoustic instability predictions](https://www.sciencedirect.com/science/article/abs/pii/S1540748920303217). *Proceedings of the Combustion Institute*, 2020, in press.
 
